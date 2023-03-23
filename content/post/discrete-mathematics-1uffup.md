@@ -3,12 +3,12 @@ title: 离散数学
 slug: discrete-mathematics-1uffup
 url: /post/discrete-mathematics-1uffup.html
 tags: []
-categories: []
-lastmod: '2023-03-24 00:59:55'
+categories:
+  - post
+lastmod: '2023-03-24 01:00:29'
 toc: true
 keywords: ''
-description: >-
-  离散数学第一章集合幂集设a是集合由a的所有子集作为元素构成的集合称为a的幂集记作p(a)设集合a={abc}则p(a)={phi{a}{b}{c}{a}{ab}{ac}{bc}{abc}}有限集a中元素的个数称为集合a的基记作_a_如a={abc}则_a_=设a是具有n个元素的有限集则a的幂集p(a)的基为_p(a)_=_n对称差设ab是集合由所有属于a但不属于b或者属于b但不属于a的元素组成的集合称为a和b的对称差记作aoplusb​_[image](assetsimagejuyzpng)​对称差的性质
+description: ''
 isCJKLanguage: true
 ---
 
